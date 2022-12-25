@@ -1,0 +1,14 @@
+{
+  "name": "cprojects",
+  "version": "1.0.0",
+  "description": "projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Askia",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
